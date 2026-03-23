@@ -2,8 +2,17 @@
 
 I'm Christian, a cs student and programmer based in LA.
 
-I’m currently building projects at the intersection of software, AI, and human health. My main focus is growing toward medtech, biotech, and neurotechnology by strengthening my computer science foundation, building practical full stack projects, and exploring how intelligent systems can support healthcare, biological data, and human performance.
+I'm currently building software and AI projects with a long term focus on medtech, biotech, and neurotechnology. Right now, I'm strengthening my computer science foundation, building practical full stack applications, and exploring how software can support healthcare, biological data, and human performance.
 
-I use Python, JavaScript, TypeScript, React, React Native, Node.js, Git, GitHub, VS Code, Cursor, SQL, Firebase, APIs, and AI tools for rapid prototyping and experimentation.
+### Tools I use
+Python, JavaScript, TypeScript, React, React Native, Node.js, SQL, Firebase, Git, GitHub, VS Code, Cursor, REST APIs, and AI tools for prototyping and development.
 
-The best way to reach out is to email me !
+### Current interests
+- Health and biomedical software
+- Human performance and data tracking
+- AI applications in healthcare
+- Long term exploration of neurotechnology
+
+### Connect
+- LinkedIn: [add link]
+- Email: [add email or contact link]
