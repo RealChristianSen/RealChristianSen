@@ -14,5 +14,5 @@ Python, JavaScript, TypeScript, React, React Native, Node.js, SQL, Firebase, Git
 - Long term exploration of neurotechnology
 
 ### Connect
-- LinkedIn: [add link]
-- Email: [add email or contact link]
+- LinkedIn: 
+- Email: 
